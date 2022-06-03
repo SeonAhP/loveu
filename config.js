@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
-    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
+    introTitle: '🖐🖐🖐 Hi ! 🖐🖐🖐',
+    introDesc: `대답 좀 해주세요!`,
     btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
-    desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
-    btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
-    reasonPlaceholder: 'Lý do',
-    btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
-    btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    title: '일요일 나랑 영화 보러 갈래?',
+    desc: '대답하지 않거나 나간다는 것은 동의한다는 뜻! ',
+    btnYes: 'Yesss',
+    btnNo: '💔 No! 💔 ',
+    question:'범죄도시2 or 쥬라기 월드?',
+    reasonPlaceholder: 'Please choose one',
+    btnReply: 'Send',
+    reply: '쥬라기 월드 보자!',
+    mess: 'I know you will choose Jurassic World',
+    messDesc: '💬💬 Send me messenger to discuss! 💬💬',
+    btnAccept: 'Ok!',
+    messLink: 'https://www.facebook.com/luong.ly.92'
 }
