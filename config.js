@@ -2,7 +2,7 @@
 const CONFIG = {
     introTitle: '🖐🖐🖐 Hi ! 🖐🖐🖐',
     introDesc: `대답 좀 해주세요!`,
-    btnIntro: 'OK',
+    btnIntro: 'OK!',
     title: '일요일 나랑 영화 보러 갈래?',
     desc: '대답하지 않거나 나간다는 것은 동의한다는 뜻! ',
     btnYes: 'Yesss',
