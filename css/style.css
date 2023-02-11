@@ -8,7 +8,7 @@
   z-index: 0;
   background-repeat: no-repeat;
   /* 3. Đổi ảnh nền tại đây */
-  background-image: url(../image_luvBi1.JPG); 
+  background-image: url(../img/image_luvBi1.JPG); 
   background-size: cover;
   background-position: 50%;
   -webkit-filter: blur(4px);
