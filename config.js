@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: '🖐🖐🖐 Hi ! 🖐🖐🖐',
     introDesc: `Em có điều này muốn hỏi anh`,
     btnIntro: 'OK!',
-    title: 'Anh la cua em duoc khongg?',
+    title: 'Anh iu em lam dung hongg?',
     desc: 'Anh không trả lời hoặc thoát ra nghĩa là đồng ý nhé ',
     btnYes: 'Okiii',
     btnNo: '💔 Hong! 💔 ',
